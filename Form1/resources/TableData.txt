@@ -1,0 +1,7 @@
+ID,Name,Email,Phone Number,Property,Status,Last Contract
+111##Abdelrahman Mohamed##abdelrahmanmohamed@gmail.com##+201121194448##Beylikduzu##Old##Dec 11, 2019##
+222##Mohamed Elmoqayed##Mohamedelmoqayed@gmail.com##+932465323545##Beylikduzu##New##Jan 30, 2020##
+333##Ahmed Shalash##Ahmedshalash@gmail.com##+945421542535##Avcilar##New##Jan 30, 2020##
+888##touka gheita ##toukagheita@gmail.com##+905317114932##other##New##Jan 30, 2020##
+11111##mosab##mosab@gmail.com##+9315421032465##other##Old##Dec 10, 2019##
+1##s##s##s##Sirinevler##sold##Feb 14, 2020##
